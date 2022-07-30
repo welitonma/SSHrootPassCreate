@@ -1,5 +1,5 @@
 # SSHrootPassCreate 
-
+#### Credito não incluso, salvei o codigo e não lembro onde achei :/
 
 
 ### ENTRAR E DEFINIR ACESSO ROOT:

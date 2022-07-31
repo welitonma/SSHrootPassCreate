@@ -37,4 +37,4 @@ echo -e "\n\033[1;31mVá com calma, digite novamente devagar\033[0m"
 exit 0
 }
 echo "root:$senha" | chpasswd
-echo -e "\n\033[1;31m[ \033[1;33mUsuario root definido \033[1;31m]\033[1;37m - \033[1;32mSó sair acessar com o usuario root e senha que definiu! \033[0m"
+echo -e "\n\033[1;31m[ \033[1;33mUsuario root definido \033[1;31m]\033[1;37m - \033[1;32mAcesse com o usuario root e senha definida! \033[0m"
